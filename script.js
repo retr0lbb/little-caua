@@ -26,5 +26,5 @@ console.log(button)
 var button2 = document.querySelector("#yes")
 
 button2.addEventListener("click", () =>{
-    alert("Ohhhhhh yeah")
+    alert("Você aceitou agora vc é minha Ficante Tô esperando o beijo 😚")
 })
